@@ -4,11 +4,11 @@
 
 ### My Projects
 
-[Football Transfers 2022/23](/sample_page)
+[Football Transfers 2022/23](/pdf/transferss.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Airline Passengers Satisfaction](/pdf/sample_presentation.pdf)
+[Airline Passengers Satisfaction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
