@@ -18,6 +18,8 @@ Models will be compared: Logistic Regression, Decision Tree, Random Forest and X
 
 ### 4. Summary of the analysis
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Model comparison. In my opinion, it is very important to correctly interpret the task results.
+
+In all metrics: accuracy, precision, recall and f1-score XGBoost is the best.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
