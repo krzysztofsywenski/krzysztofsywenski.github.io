@@ -1,30 +1,22 @@
-## This can be your internal website page / project page
+## Airline Passengers Satisfaction
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** In this project, a binary prediction model is created whether the customer will be satisfied or not with the plane trip.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. About project
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+I used libraries in the project: numpy, pandas, scikit-learn, matplotlib
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Models will be compared: Logistic Regression, Decision Tree, Random Forest and XGBoost.
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. A few charts from the project
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/wykresy.jpg?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Comparison of ROC curves
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/roc.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. Summary of the analysis
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
