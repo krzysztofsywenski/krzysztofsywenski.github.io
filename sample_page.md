@@ -22,4 +22,4 @@ Model comparison. In my opinion, it is very important to correctly interpret the
 
 In all metrics: accuracy, precision, recall and f1-score XGBoost is the best.
 
-For more details see ([passengers - ML - log.ipynb](https://github.com/krzysztofsywenski/Airline-Passengers/blob/main/passengers%20-%20ML%20-%20log.ipynb)
+For more details see [passengers - ML - log.ipynb](https://github.com/krzysztofsywenski/Airline-Passengers/blob/main/passengers%20-%20ML%20-%20log.ipynb)
