@@ -12,7 +12,7 @@
 <img src="images/satisf.jpg?raw=true"/>
 
 ---
-[Car Price Prediction](http://example.com/)
+[Car Price Prediction](/sample_page_2)
 <img src="images/preds.jpg?raw=true"/>
 
 ---
