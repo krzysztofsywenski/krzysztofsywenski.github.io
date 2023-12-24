@@ -22,4 +22,4 @@ Model comparison. In my opinion, it is very important to correctly interpret the
 
 The random forest and XGB models performed best in predicting the price of a car.
 
-For more details see [https://drive.google.com/file/d/1QR1UsVxyfDAFaZ8x6Q1Azh5dfQ4q5wus/view?usp=sharing]
+For more details see (https://drive.google.com/file/d/1QR1UsVxyfDAFaZ8x6Q1Azh5dfQ4q5wus/view?usp=sharing)
