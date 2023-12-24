@@ -1,4 +1,4 @@
-## Airline Passengers Satisfaction
+## Car Price Prediction
 
 **Project description:** In this project, the price of a car will be predicted based on a set of data from an online advertising portal. I will compare the effectiveness of predictive models.
 
